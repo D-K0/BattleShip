@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=UserBoard
+comment1.params=ShipsL
+comment1.target=void\ setSR(java.util.ArrayList)
+comment2.params=cBoard
+comment2.target=void\ setCompObject(ComputerBoard)
+comment3.params=
+comment3.target=void\ setShipMap()
+comment4.params=
+comment4.target=void\ fakeSetShipMap()
+comment5.params=
+comment5.target=int\ setHitMap()
+comment6.params=head\ direction\ size\ cShipBoard
+comment6.target=void\ shipWreckShipBoard(int,\ int,\ int,\ int[][])
+comment7.params=
+comment7.target=int\ getTotalShipOnBoard()
+comment8.params=
+comment8.target=shipRecords\ getSB()
+numComments=9

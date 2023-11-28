@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=usersTool
+comment0.text=\r\n\ tools\ which\ the\ user\ has,\ an\ interface\r\n
+comment1.params=cBoard
+comment1.target=void\ setCompObject(ComputerBoard)
+comment2.params=
+comment2.target=void\ setShipMap()
+comment3.params=
+comment3.target=int\ setHitMap()
+numComments=4

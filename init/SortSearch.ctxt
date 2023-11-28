@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SortSearch
+comment1.params=name\ nameList
+comment1.target=int\ bsearch(java.lang.String,\ java.lang.String[][])
+comment2.params=name\ nameList\ first\ last
+comment2.target=int\ bsearchRecursion(java.lang.String,\ java.lang.String[][],\ int,\ int)
+comment3.params=nameListL
+comment3.target=java.lang.String[][]\ sortListDate(java.lang.String[][])
+comment4.params=listName\ first\ mid\ last
+comment4.target=void\ mergeDate(java.lang.String[][],\ int,\ int,\ int)
+comment5.params=listName\ first\ last
+comment5.target=void\ mergeSortDate(java.lang.String[][],\ int,\ int)
+comment6.params=nameListL
+comment6.target=java.lang.String[][]\ sortListName(java.lang.String[][])
+comment7.params=listName\ first\ mid\ last
+comment7.target=void\ mergeName(java.lang.String[][],\ int,\ int,\ int)
+comment8.params=listName\ first\ last
+comment8.target=void\ mergeSortName(java.lang.String[][],\ int,\ int)
+comment9.params=listName\ a\ b
+comment9.target=void\ swap(java.lang.String[][],\ int,\ int)
+numComments=10

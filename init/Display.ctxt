@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Display
+comment0.text=\r\n\ method\ which\ contains\ diffrent\ kinds\ of\ message\ in\ the\ game\r\n
+comment1.params=
+comment1.target=void\ welcome()
+comment2.params=
+comment2.target=void\ victory()
+comment3.params=
+comment3.target=void\ defeat()
+comment4.params=userSR
+comment4.target=void\ fillUserShip(shipRecords)
+comment5.params=size\ direction\ xPosition\ yPosition
+comment5.target=void\ fillUserShip(int,\ int,\ int,\ int)
+comment6.params=xPosition
+comment6.target=void\ fillUserShip(int)
+comment7.params=let
+comment7.target=int\ convertLettersToNumbers(char)
+comment8.params=num
+comment8.target=char\ convertNumbersToLetters(int)
+comment9.params=names\ IP\ ss
+comment9.target=void\ nameList(java.lang.String[][],\ Input,\ SortSearch)
+numComments=10

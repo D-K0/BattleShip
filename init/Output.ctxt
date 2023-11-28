@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Output
+comment1.params=cBoard\ uBoard\ hit\ levelL
+comment1.target=void\ setSetters(ComputerBoard,\ UserBoard,\ Hits,\ int)
+comment10.params=adressSR\ Ships
+comment10.target=void\ addShipRecord(java.lang.String,\ java.util.ArrayList)
+comment2.params=
+comment2.target=void\ setName()
+comment3.params=
+comment3.target=void\ setAdress()
+comment4.params=
+comment4.target=void\ setDate()
+comment5.params=shipBoardC\ shipBoardU\ guessBoardC\ guessBoardU
+comment5.target=void\ setTable(int[][],\ int[][],\ int[][],\ int[][])
+comment6.params=possibleHitsCL\ directionCL\ DistractionCL\ originDistantL\ directionL
+comment6.target=void\ setHitList(java.util.ArrayList,\ java.util.ArrayList,\ int,\ int,\ boolean)
+comment7.params=
+comment7.target=void\ outputData()
+comment8.params=
+comment8.target=void\ addName()
+comment9.params=
+comment9.target=void\ addData()
+numComments=11

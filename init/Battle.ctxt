@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Battle
+comment1.params=displayL\ menuL\ cBoardL\ uBoardL\ hitL
+comment1.target=Battle(Display,\ Menu,\ ComputerBoard,\ UserBoard,\ Hits)
+comment2.params=strt\ level
+comment2.target=int\ game(boolean,\ int)
+comment3.params=
+comment3.target=boolean\ getCompResoult()
+comment4.params=
+comment4.target=boolean\ getUserResoult()
+numComments=5
