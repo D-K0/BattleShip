@@ -1,65 +1,60 @@
 # BattleShip
 
-A Java-based Battleship game with a computer opponent, multiple difficulty levels, ship placement logic, and save/resume support.
-
-## About this project
-- Built by: [Your Name]
-- Project type: [Personal project / academic project / portfolio project]
-- Year: [202x]
+A Java-based Battleship game developed as a final project for Grade 12 Computer Science at Grant Park High School.
 
 ## Overview
-This repository contains a classic Battleship game implemented in Java. The project includes a command-line interface, turn-based gameplay, board validation, enemy AI behavior, and saved game functionality.
+This project is a text-based Battleship game implemented in Java. It includes turn-based gameplay, AI opponent logic, multiple difficulty levels, board validation, and save/resume functionality. The application is structured using object-oriented programming principles and is organized into separate classes for the game flow, boards, menus, hit logic, and file persistence.
 
-## Key features
+## Features
 - Single-player Battleship gameplay
-- Computer opponent with multiple difficulty settings
-- Manual ship placement and board validation
-- Turn-based attack system and hit tracking
-- Save and resume support for ongoing games
-- Java object-oriented architecture with separate classes for game logic, boards, and menus
-- File-based persistence for saved game records and user data
+- Multiple computer difficulty levels
+- Ship placement and board validation
+- Turn-based attack system with hit tracking
+- Saved game support for continuing previous sessions
+- Console-based user interface
+- Java class-based architecture with modular game components
 
-## Tech stack
+## Technology
 - Java
 - BlueJ project structure
-- Console-based user interface
-- File I/O for saved game state
+- Console input/output
+- File I/O for saved game data
 
 ## Project structure
-- `init/` — Java source files, BlueJ metadata, and saved game data
-- `tester.java` — main entry point for the application
-- `Battle.java` — core gameplay loop
-- `Menu.java` — the game menus and user interaction flow
-- `ComputerBoard.java` — computer board and ship placement logic
-- `UserBoard.java` — player board and ship placement logic
-- `Hits.java` — AI targeting logic and possible-hit calculations
-- `Input.java` — loading saved game data and records
+- `init/` — project source files, BlueJ metadata, and saved game records
+- `tester.java` — main program entry point
+- `Battle.java` — primary game loop and turn logic
+- `Menu.java` — menu system and user interaction flow
+- `ComputerBoard.java` — computer board state and ship placement logic
+- `UserBoard.java` — player board state and ship placement logic
+- `Hits.java` — AI targeting and possible-hit calculations
+- `Input.java` — reading saved game data and board state
 - `Output.java` — writing game state to files
-- `Display.java` — console rendering and user-facing output
+- `Display.java` — console display and user-facing output
 
 ## Getting started
-### Option 1: BlueJ
+### With BlueJ
 1. Open the `init` folder in BlueJ.
 2. Run the `tester` class.
 
-### Option 2: Command line
+### Using the command line
 ```bash
 cd init
 javac *.java
 java tester
 ```
 
-## Why this project is useful for a CV
-This project demonstrates:
-- Object-oriented programming in Java
-- Game logic and state management
-- AI decision-making logic
-- File handling and persistence
-- User interaction and input validation
-- Problem-solving in a structured, modular codebase
+## Educational value
+This project demonstrates several core programming concepts, including:
+- object-oriented design
+- state management and game logic
+- algorithmic decision-making for AI behavior
+- user input validation
+- file handling and persistence
+- structured project organization
 
 ## Notes
-This repository is currently structured as a Java game project and is suitable for showcasing practical programming skills in a portfolio or CV context.
+This repository is intended as a Java programming project and serves as a demonstration of practical software development skills in a classroom setting.
 
 ## License
-This project does not currently declare a license in the repository.
+No license has been specified in the repository.
